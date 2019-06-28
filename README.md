@@ -25,6 +25,9 @@ for number in 4..<8{
 }
 
 print(myNum)
+
+23
+
 ```
 
 ***
@@ -58,6 +61,9 @@ D)
 for l in 1...100 where _ < 101 {
     print(l)
 }
+
+B
+C
 ```
 
 ***
@@ -71,6 +77,9 @@ for _ in 1...10{
         print("Nesting!")
     }
 }
+
+10
+
 ```
 
 ***
@@ -116,6 +125,8 @@ while t == t{
     print("Ahoy-hoy!")
     t += 1
 }
+
+A & D
 ```
 
 ***
